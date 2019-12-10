@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+}
+
+#time {
+  font-size: 0;
+}
+
+#time span {
+  font-size: 6rem;
+  display: inline-block;
+  text-align: center;
+  width: 0.6em;
+  font-weight: 100;
+}
+
+.sep {
+  vertical-align: 0.09em;
+}
